@@ -1,0 +1,6 @@
+#top_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    background-color: green;
+}
