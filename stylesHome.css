@@ -46,3 +46,14 @@
     margin: 0;
     color: black;
 }
+
+#cocktail_list {
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+}
+
+#recipes_top {
+    text-align: center;
+    margin-bottom: 2rem;
+}
